@@ -1,0 +1,379 @@
+{
+  "resources/client/common/ui/not-found-page/404-1.png": {
+    "file": "assets/404-1.176145e9.png",
+    "src": "resources/client/common/ui/not-found-page/404-1.png"
+  },
+  "resources/client/common/ui/not-found-page/404-2.png": {
+    "file": "assets/404-2.14c4a897.png",
+    "src": "resources/client/common/ui/not-found-page/404-2.png"
+  },
+  "resources/client/common/auth/ui/email-verification-page/mail-sent.svg": {
+    "file": "assets/mail-sent.c2a25732.svg",
+    "src": "resources/client/common/auth/ui/email-verification-page/mail-sent.svg"
+  },
+  "resources/client/admin/verts/landing-top.png": {
+    "file": "assets/landing-top.e0e553bc.png",
+    "src": "resources/client/admin/verts/landing-top.png"
+  },
+  "resources/client/admin/verts/drive.png": {
+    "file": "assets/drive.d7c1e515.png",
+    "src": "resources/client/admin/verts/drive.png"
+  },
+  "resources/client/admin/verts/file-preview.png": {
+    "file": "assets/file-preview.8afa3b5f.png",
+    "src": "resources/client/admin/verts/file-preview.png"
+  },
+  "resources/client/common/admin/roles/team.svg": {
+    "file": "assets/team.de984127.svg",
+    "src": "resources/client/common/admin/roles/team.svg"
+  },
+  "resources/client/common/admin/appearance/sections/menus/dropdown-menu.svg": {
+    "file": "assets/dropdown-menu.c9b3bd6a.svg",
+    "src": "resources/client/common/admin/appearance/sections/menus/dropdown-menu.svg"
+  },
+  "resources/client/common/admin/custom-pages/articles.svg": {
+    "file": "assets/articles.8bfd9f17.svg",
+    "src": "resources/client/common/admin/custom-pages/articles.svg"
+  },
+  "resources/client/common/admin/translations/around-the-world.svg": {
+    "file": "assets/around-the-world.df9b11c5.svg",
+    "src": "resources/client/common/admin/translations/around-the-world.svg"
+  },
+  "resources/client/common/admin/tags/software-engineer.svg": {
+    "file": "assets/software-engineer.ba026106.svg",
+    "src": "resources/client/common/admin/tags/software-engineer.svg"
+  },
+  "resources/client/common/admin/file-entry/upload.svg": {
+    "file": "assets/upload.cabfc914.svg",
+    "src": "resources/client/common/admin/file-entry/upload.svg"
+  },
+  "resources/client/common/admin/subscriptions/subscriptions.svg": {
+    "file": "assets/subscriptions.7eacea42.svg",
+    "src": "resources/client/common/admin/subscriptions/subscriptions.svg"
+  },
+  "resources/client/common/auth/ui/auth-layout/auth-bg.svg": {
+    "file": "assets/auth-bg.8529ec0e.svg",
+    "src": "resources/client/common/auth/ui/auth-layout/auth-bg.svg"
+  },
+  "resources/client/common/auth/ui/account-settings/access-token-panel/secure-files.svg": {
+    "file": "assets/secure-files.17b4728d.svg",
+    "src": "resources/client/common/auth/ui/account-settings/access-token-panel/secure-files.svg"
+  },
+  "resources/client/common/notifications/empty-state/notify.svg": {
+    "file": "assets/notify.d1de4ec3.svg",
+    "src": "resources/client/common/notifications/empty-state/notify.svg"
+  },
+  "resources/client/drive/drive-page/add-files.svg": {
+    "file": "assets/add-files.107c40dd.svg",
+    "src": "resources/client/drive/drive-page/add-files.svg"
+  },
+  "resources/client/drive/drive-page/time-management.svg": {
+    "file": "assets/time-management.5219b76e.svg",
+    "src": "resources/client/drive/drive-page/time-management.svg"
+  },
+  "resources/client/drive/drive-page/throw-away.svg": {
+    "file": "assets/throw-away.389510cc.svg",
+    "src": "resources/client/drive/drive-page/throw-away.svg"
+  },
+  "resources/client/drive/drive-page/file-searching.svg": {
+    "file": "assets/file-searching.49556098.svg",
+    "src": "resources/client/drive/drive-page/file-searching.svg"
+  },
+  "resources/client/drive/shareable-link/shareable-link-page/folder-preview/share.svg": {
+    "file": "assets/share.70babf29.svg",
+    "src": "resources/client/drive/shareable-link/shareable-link-page/folder-preview/share.svg"
+  },
+  "resources/client/drive/drive-page/loving-it.svg": {
+    "file": "assets/loving-it.585c130e.svg",
+    "src": "resources/client/drive/drive-page/loving-it.svg"
+  },
+  "resources/client/drive/details-sidebar/detailed-examination.svg": {
+    "file": "assets/detailed-examination.33c85772.svg",
+    "src": "resources/client/drive/details-sidebar/detailed-examination.svg"
+  },
+  "resources/client/common/billing/billing-page/panels/paypal.svg": {
+    "file": "assets/paypal.c2a77c63.svg",
+    "src": "resources/client/common/billing/billing-page/panels/paypal.svg"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-css.js": {
+    "file": "assets/worker-css.020ed969.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-css.js"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-html.js": {
+    "file": "assets/worker-html.98c45599.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-html.js"
+  },
+  "node_modules/ace-builds/src-noconflict/worker-javascript.js": {
+    "file": "assets/worker-javascript.78acd5d1.js",
+    "src": "node_modules/ace-builds/src-noconflict/worker-javascript.js"
+  },
+  "resources/client/drive/files/dialogs/move-entries-dialog/my-files.svg": {
+    "file": "assets/my-files.88476671.svg",
+    "src": "resources/client/drive/files/dialogs/move-entries-dialog/my-files.svg"
+  },
+  "resources/client/main.tsx": {
+    "file": "assets/main.2bad25cd.js",
+    "src": "resources/client/main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/client/common/billing/billing-page/billing-page-routes.tsx",
+      "resources/client/common/billing/checkout/checkout-routes.tsx",
+      "_admin-routes.3fdcbe98.js",
+      "resources/client/drive/drive-routes.tsx",
+      "resources/client/common/swagger/swagger-api-docs-page.tsx"
+    ],
+    "css": [
+      "assets/main.4a7787f5.css"
+    ],
+    "assets": [
+      "assets/notify.d1de4ec3.svg",
+      "assets/file-preview.8afa3b5f.png",
+      "assets/drive.d7c1e515.png",
+      "assets/landing-top.e0e553bc.png",
+      "assets/auth-bg.8529ec0e.svg",
+      "assets/secure-files.17b4728d.svg",
+      "assets/404-1.176145e9.png",
+      "assets/404-2.14c4a897.png",
+      "assets/mail-sent.c2a25732.svg"
+    ]
+  },
+  "_admin-routes.3fdcbe98.js": {
+    "file": "assets/admin-routes.3fdcbe98.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_date-picker.d8be8944.js",
+      "_Edit.2aa2741b.js",
+      "_use-resume-subscription.985ade8a.js"
+    ],
+    "dynamicImports": [
+      "resources/client/common/ui/icon-picker/icon-list.tsx",
+      "resources/client/common/ace-editor/ace-editor.tsx",
+      "resources/client/common/admin/custom-pages/editor/text-editor.tsx",
+      "resources/client/common/admin/reports/reports-page.tsx"
+    ],
+    "assets": [
+      "assets/team.de984127.svg",
+      "assets/dropdown-menu.c9b3bd6a.svg",
+      "assets/articles.8bfd9f17.svg",
+      "assets/around-the-world.df9b11c5.svg",
+      "assets/software-engineer.ba026106.svg",
+      "assets/upload.cabfc914.svg",
+      "assets/subscriptions.7eacea42.svg"
+    ]
+  },
+  "_date-picker.d8be8944.js": {
+    "file": "assets/date-picker.d8be8944.js",
+    "imports": [
+      "resources/client/main.tsx",
+      "_Edit.2aa2741b.js",
+      "_index.b7375da4.js"
+    ]
+  },
+  "_Edit.2aa2741b.js": {
+    "file": "assets/Edit.2aa2741b.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_use-resume-subscription.985ade8a.js": {
+    "file": "assets/use-resume-subscription.985ade8a.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_index.b7375da4.js": {
+    "file": "assets/index.b7375da4.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/drive/drive-routes.tsx": {
+    "file": "assets/drive-routes.3ff65938.js",
+    "src": "resources/client/drive/drive-routes.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_date-picker.d8be8944.js",
+      "_Info.6e21f778.js",
+      "_Edit.2aa2741b.js",
+      "_ArrowBack.da4c6dca.js",
+      "_index.b7375da4.js"
+    ],
+    "assets": [
+      "assets/share.70babf29.svg",
+      "assets/add-files.107c40dd.svg",
+      "assets/time-management.5219b76e.svg",
+      "assets/file-searching.49556098.svg",
+      "assets/throw-away.389510cc.svg",
+      "assets/loving-it.585c130e.svg",
+      "assets/detailed-examination.33c85772.svg",
+      "assets/my-files.88476671.svg"
+    ]
+  },
+  "_Info.6e21f778.js": {
+    "file": "assets/Info.6e21f778.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_ArrowBack.da4c6dca.js": {
+    "file": "assets/ArrowBack.da4c6dca.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/swagger/swagger-api-docs-page.tsx": {
+    "file": "assets/swagger-api-docs-page.508465cc.js",
+    "src": "resources/client/common/swagger/swagger-api-docs-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_index.9b3ee2f7.js",
+      "_format.eba72cc5.js",
+      "_index.b7375da4.js"
+    ],
+    "css": [
+      "assets/swagger-api-docs-page.f01a603b.css"
+    ]
+  },
+  "_index.9b3ee2f7.js": {
+    "file": "assets/index.9b3ee2f7.js"
+  },
+  "_format.eba72cc5.js": {
+    "file": "assets/format.eba72cc5.js"
+  },
+  "resources/client/common/billing/billing-page/billing-page-routes.tsx": {
+    "file": "assets/billing-page-routes.ebaccb97.js",
+    "src": "resources/client/common/billing/billing-page/billing-page-routes.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_Edit.2aa2741b.js",
+      "_billing-redirect-message.87abc586.js",
+      "_use-resume-subscription.985ade8a.js",
+      "_OpenInNew.f50b2336.js",
+      "_TaskAlt.11c90068.js"
+    ],
+    "assets": [
+      "assets/paypal.c2a77c63.svg"
+    ]
+  },
+  "_billing-redirect-message.87abc586.js": {
+    "file": "assets/billing-redirect-message.87abc586.js",
+    "imports": [
+      "resources/client/main.tsx",
+      "_TaskAlt.11c90068.js"
+    ]
+  },
+  "_TaskAlt.11c90068.js": {
+    "file": "assets/TaskAlt.11c90068.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "_OpenInNew.f50b2336.js": {
+    "file": "assets/OpenInNew.f50b2336.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/billing/checkout/checkout-routes.tsx": {
+    "file": "assets/checkout-routes.7431cc3b.js",
+    "src": "resources/client/common/billing/checkout/checkout-routes.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_billing-redirect-message.87abc586.js",
+      "_TaskAlt.11c90068.js"
+    ]
+  },
+  "resources/client/common/admin/reports/reports-page.tsx": {
+    "file": "assets/reports-page.b7240b50.js",
+    "src": "resources/client/common/admin/reports/reports-page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx"
+    ],
+    "dynamicImports": [
+      "resources/client/common/charts/lazy-chart.tsx"
+    ]
+  },
+  "resources/client/common/admin/custom-pages/editor/text-editor.tsx": {
+    "file": "assets/text-editor.020f6459.js",
+    "src": "resources/client/common/admin/custom-pages/editor/text-editor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_format.eba72cc5.js",
+      "_Edit.2aa2741b.js",
+      "_date-picker.d8be8944.js",
+      "_admin-routes.3fdcbe98.js",
+      "_ArrowBack.da4c6dca.js",
+      "_UnfoldLess.d46bce89.js",
+      "_index.b7375da4.js",
+      "_use-resume-subscription.985ade8a.js"
+    ],
+    "css": [
+      "assets/text-editor.b603c7db.css"
+    ]
+  },
+  "_UnfoldLess.d46bce89.js": {
+    "file": "assets/UnfoldLess.d46bce89.js",
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/ace-editor/ace-editor.tsx": {
+    "file": "assets/ace-editor.9dd51c21.js",
+    "src": "resources/client/common/ace-editor/ace-editor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_index.9b3ee2f7.js"
+    ],
+    "assets": [
+      "assets/worker-css.020ed969.js",
+      "assets/worker-html.98c45599.js",
+      "assets/worker-javascript.78acd5d1.js"
+    ]
+  },
+  "resources/client/common/ui/icon-picker/icon-list.tsx": {
+    "file": "assets/icon-list.b66d448a.js",
+    "src": "resources/client/common/ui/icon-picker/icon-list.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx",
+      "_date-picker.d8be8944.js",
+      "_ArrowBack.da4c6dca.js",
+      "_Info.6e21f778.js",
+      "_OpenInNew.f50b2336.js",
+      "_Edit.2aa2741b.js",
+      "_UnfoldLess.d46bce89.js",
+      "_admin-routes.3fdcbe98.js",
+      "_TaskAlt.11c90068.js",
+      "_index.b7375da4.js",
+      "_use-resume-subscription.985ade8a.js"
+    ]
+  },
+  "resources/client/common/charts/lazy-chart.tsx": {
+    "file": "assets/lazy-chart.93fc0375.js",
+    "src": "resources/client/common/charts/lazy-chart.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/client/main.tsx"
+    ]
+  },
+  "resources/client/common/admin/custom-pages/editor/text-editor.css": {
+    "file": "assets/text-editor.b603c7db.css",
+    "src": "resources/client/common/admin/custom-pages/editor/text-editor.css"
+  },
+  "resources/client/main.css": {
+    "file": "assets/main.4a7787f5.css",
+    "src": "resources/client/main.css"
+  },
+  "resources/client/common/swagger/swagger-api-docs-page.css": {
+    "file": "assets/swagger-api-docs-page.f01a603b.css",
+    "src": "resources/client/common/swagger/swagger-api-docs-page.css"
+  }
+}
